@@ -36,36 +36,6 @@ The project may be over-engineered for a small dataset, but it's designed to mir
 
 ---
 
-## ⚙️ Setup Instructions
-
-You can recreate this project end-to-end by following the instructions below.
-
-> **Important**: This setup was developed on an M1 MacBook Pro. Minor tweaks might be required if you're using Windows or Linux.
-
-> **Disclaimer**: AWS Free Tier should cover most services used here, but always double-check the latest [Free Tier limits](https://aws.amazon.com/free/) before deploying.
-
-### 🔧 Installation
-
-```bash
-git clone https://github.com/ABZ-Aaron/Reddit-API-Pipeline.git
-cd Reddit-API-Pipeline
-```
-
-### 📁 Setup Guide
-
-1. [Project Overview](instructions/overview.md)  
-2. [Reddit API Configuration](instructions/reddit.md)  
-3. [Create AWS Account](instructions/aws.md)  
-4. [Provision Infrastructure with Terraform](instructions/setup_infrastructure.md)  
-5. [Configuration Details](instructions/config.md)  
-6. [Run Airflow in Docker](instructions/docker_airflow.md)  
-7. [Setup dbt Models](instructions/dbt.md)  
-8. [Build the Dashboard](instructions/visualisation.md)  
-9. [Terminate Resources](instructions/terminate.md)  
-10. [Future Improvements](instructions/improvements.md)  
-
----
-
 ## ✅ Features
 
 - Extracts real Reddit threads and metadata
