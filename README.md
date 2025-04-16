@@ -34,14 +34,6 @@ The project may be over-engineered for a small dataset, but it's designed to mir
 
 ---
 
-## 📊 Dashboard Output
-
-[<img src="https://github.com/ABZ-Aaron/Reddit-API-Pipeline/blob/master/images/GDS-Dashboard.png" width=70% height=70%>](https://datastudio.google.com/reporting/e927fef6-b605-421c-ae29-89a66e11ea18)
-
-👉 [View the live dashboard](https://datastudio.google.com/reporting/e927fef6-b605-421c-ae29-89a66e11ea18)
-
-> **Note**: Dashboard uses a static CSV export from Redshift. The Redshift instance has been deleted to avoid unnecessary AWS costs.
-
 ---
 
 ## ⚙️ Setup Instructions
@@ -97,5 +89,5 @@ cd Reddit-API-Pipeline
 ## 👨‍💻 Author
 
 **Tejanmayi**  
-📧 [LinkedIn](https://linkedin.com/in/tejanmayi-gummaraju) • 🧠 [Portfolio](https://tejanmayi.com)  
+📧 [LinkedIn](https://linkedin.com/in/your-link) • 🧠 [Portfolio](https://your-portfolio.com)  
 This project was built for educational purposes and portfolio demonstration.
