@@ -59,5 +59,5 @@ The project may be over-engineered for a small dataset, but it's designed to mir
 ## 👨‍💻 Author
 
 **Tejanmayi**  
-📧 [LinkedIn](https://linkedin.com/in/your-link) • 🧠 [Portfolio](https://your-portfolio.com)  
+📧 [LinkedIn](https://linkedin.com/in/tejanmayi-gummaraju) • 🧠 [Portfolio](https://tejanmayi.com)  
 This project was built for educational purposes and portfolio demonstration.
